@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Taha Anouar
 
-<!--
-**Taha-hubb/Taha-hubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 IT Developer | Data Analyst | Educator
+- 📊 Skilled in Python, R, SQL, Excel, HTML/CSS, and CRMs
+- 📍 Moving to Ontario, Canada (PR)
+- 🧠 Interested in AI, Data Science, and Tech for Good
 
-Here are some ideas to get you started:
+### 🔧 Projects
+- 📌 [School Management Software (ENA Agadir)](https://github.com/YourUsername/project-link)
+- 📌 [Data Analysis of Canadian Immigration Trends](https://github.com/YourUsername/project-link)
+- 📌 [CRM Integration for Educational Platforms](https://github.com/YourUsername/project-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find Me
+[LinkedIn](www.linkedin.com/in/taha-anouar-ba60241a7) | [Email](professionalanouar@gmail.com)
