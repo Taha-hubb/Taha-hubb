@@ -24,21 +24,14 @@ I'm passionate about using technology to solve real-world problems, with experie
   Custom software for managing student records, courses, and administrative tasks.  
   🔗 [View on GitHub](https://github.com/YourUsername/school-management-system)
 
-- 📈 **Canadian Immigration Data Analysis**  
-  Visualizing French-speaking immigration patterns and trends using open datasets.  
-  🔗 [View on GitHub](https://github.com/YourUsername/immigration-data-analysis)
 
-- 🤝 **CRM Automation for Education Sector**  
-  Automating communication and data sync between CRM and academic platforms.  
-  🔗 [View on GitHub](https://github.com/YourUsername/crm-automation)
 
 ---
 
 ## 🌍 About Me
 
 - 🗺️ From Morocco, moving to Canada 🇨🇦 as a permenant residence 
-- 🧠 I’m building a future as a university professor and entrepreneur in AI & mental wellness  
-- Life long learner
+- 🧠 I’m building a future as a Life Long Learner  
 - 🥋 Karate enthusiast & swimmer
 - 🧠 Interested in AI, Data Science, and Tech for Good
 
