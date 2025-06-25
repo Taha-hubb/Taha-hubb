@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Taha Anouar
+# Hi, I'm Taha Anouar
 
-## 💼 IT Developer | Data Analyst | Math Teacher  | HELPP
-I'm passionate about using technology to solve real-world problems, with experience in software development, data analytics, and education. I specialize in developing web-based tools, analyzing datasets for insights, and automating business processes.
+## 💼 IT Developer | Data Analyst | Math Educator | Marketing Enthusiast
+Curious, analytical, and impact-driven. I build efficient digital tools, extract insights from data, and teach complex ideas with clarity. Passionate about solving real-world problems through smart tech and thoughtful communication.
+
+
 
 ---
 
