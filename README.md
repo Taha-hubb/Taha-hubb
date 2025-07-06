@@ -22,9 +22,9 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
   PHP web application enables preselected students to securely download their personalized convocation for the entrance exam.  
   🔗 [View on GitHub](https://github.com/Taha-hubb/convocation-pdf-generator)
   
-- 🎓 **School Management System (ENA Agadir)**  
+- 🎓 **School_Admission_Analysis (ENA Agadir)**  
   Custom software for managing student records, courses, and administrative tasks.  
-  🔗 [View on GitHub](https://github.com/YourUsername/school-management-system)
+  🔗 [View on GitHub](https://github.com/Taha-hubb/School_Admission_Analysis)
 
 
 
