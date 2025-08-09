@@ -32,7 +32,7 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
 
 ## 🌍 About Me
 
-- From Morocco, moving to Canada 🇨🇦 as a permenant residence 
+- Living in Canada 🇨🇦 as a permenant residence 
 - I’m building a future as a Life Long Learner  
 - Karate enthusiast & swimmer
 - Interested in AI, Data Science, and Tech for Good
