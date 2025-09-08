@@ -26,6 +26,10 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
   Custom software for managing student records, courses, and administrative tasks.  
   🔗 [View on GitHub](https://github.com/Taha-hubb/School_Admission_Analysis)
 
+  - 🎓 **Leave Management System (ENA Agadir)**  
+  A PHP & MySQL application to manage employee leave requests, approvals, and system settings.  
+  🔗 [View on GitHub](https://github.com/Taha-hubb/Leave)
+
 
 
 ---
