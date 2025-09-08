@@ -30,6 +30,10 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
   A PHP & MySQL application to manage employee leave requests, approvals, and system settings.  
   🔗 [View on GitHub](https://github.com/Taha-hubb/Leave)
 
+- 🎓 **ENAA Website (School Management Portal)**  
+  A custom website for ENAA Agadir to manage student information, exams, and school activities. 
+  🔗 [Visite website](https://enaagadir.ac.ma)
+
 
 
 ---
