@@ -1,7 +1,7 @@
 # Hi, I'm Taha Anouar
 
-## 💼 Data Analyst | MBA candidate
-Curious, analytical, and impact-driven. I build efficient digital tools, extract insights from data, and teach complex ideas with clarity. Passionate about solving real-world problems through smart tech and thoughtful communication.
+## 💼 Business and Data Analyst | MBA candidate | Leadership
+Curious, analytical, and impact-driven. I build efficient digital tools, extract insights from data. Passionate about solving real-world problems through smart tech and thoughtful communication.
 
 
 
@@ -10,9 +10,9 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
 ## 🔧 Technologies & Tools
 
 - 💻 Programming: PHP, Python, R, SQL, HTML, CSS, JavaScript  
-- 📊 Data Tools: Excel, Power BI, Pandas, RStudio  
+- 📊 Data Tools: Excel, Power BI, Tableau, RStudio  
 - 🔧 Dev Tools: Git, GitHub, VS Code, Jupyter Notebook  
-- 🧠 Soft Skills: Leadership, Communication, Training
+- 🧠 Soft Skills: Leadership, Communication, Analysis
 
 ---
 
@@ -43,7 +43,7 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
 - Living in Canada 🇨🇦 as a permenant residence 
 - I’m building a future as a Life Long Learner  
 - Karate enthusiast & swimmer
-- Interested in AI, Data Science, and Tech for Good
+- Interested in AI, Data Science, and Leadership.
 
 ---
 
