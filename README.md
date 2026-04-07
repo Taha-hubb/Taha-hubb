@@ -1,18 +1,26 @@
 # Hi, I'm Taha Anouar
 
-## 💼 Business and Data Analyst | MBA candidate | Leadership
-Curious, analytical, and impact-driven. I build efficient digital tools, extract insights from data. Passionate about solving real-world problems through smart tech and thoughtful communication.
+## Business & Data Analytics Enthusiast | MBA Candidate | Aspiring Strategy & Leadership Professional
 
-
+Curious and analytical, I am passionate about leveraging data analytics and business insight to support smarter decision-making and drive organizational performance.
+Currently pursuing an MBA, I am building a strong foundation at the intersection of analytics and leadership, with the goal of evolving into a role where I can both analyze data and lead strategic initiatives.
 
 ---
 
+##  Core Focus Areas
+📊 Business & Data Analytics → Turning data into actionable insights
+🧠 Leadership & Management → Driving teams and strategic decisions
+
 ## 🔧 Technologies & Tools
 
-- 💻 Programming: PHP, Python, R, SQL, HTML, CSS, JavaScript  
-- 📊 Data Tools: Excel, Power BI, Tableau, RStudio  
-- 🔧 Dev Tools: Git, GitHub, VS Code, Jupyter Notebook  
-- 🧠 Soft Skills: Leadership, Communication, Analysis
+Analytics & Data
+Excel · Power BI · Tableau · SQL · R
+
+Development
+PHP · Python · JavaScript · HTML · CSS
+
+Tools
+Git · GitHub · VS Code · Jupyter Notebook
 
 ---
 
@@ -39,11 +47,12 @@ Curious, analytical, and impact-driven. I build efficient digital tools, extract
 ---
 
 ## 🌍 About Me
+🇨🇦 Based in Canada (Permanent Resident)
+🎓 MBA Candidate
+🧠 Strong interest in Analytics, Leadership, and Strategy
+🥋 Karate enthusiast & swimmer
 
-- Living in Canada 🇨🇦 as a permenant residence 
-- I’m building a future as a Life Long Learner  
-- Karate enthusiast & swimmer
-- Interested in AI, Data Science, and Leadership.
+I aim to build a career where I can bridge data and leadership, helping organizations grow through informed decisions and effective management.
 
 ---
 
