@@ -47,10 +47,10 @@ Analytics & Data
 ---
 
 ## 🌍 About Me
-🇨🇦 Based in Canada (Permanent Resident)
-🎓 MBA Candidate
-🧠 Strong interest in Analytics, Leadership, and Strategy
-🥋 Karate enthusiast & swimmer
+- 🇨🇦 Based in Canada (Permanent Resident)
+- 🎓 MBA Candidate
+- 🧠 Strong interest in Analytics, Leadership, and Strategy
+- 🥋 Karate enthusiast & swimmer
 
 I aim to build a career where I can bridge data and leadership, helping organizations grow through informed decisions and effective management.
 
