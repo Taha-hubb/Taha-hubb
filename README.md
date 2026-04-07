@@ -1,6 +1,6 @@
 # Hi, I'm Taha Anouar
 
-## Business & Data Analytics Enthusiast | MBA Candidate | Aspiring Strategy & Leadership Professional
+## Business & Data Analytics | MBA Candidate | Strategy & Leadership 
 
 Curious and analytical, I am passionate about leveraging data analytics and business insight to support smarter decision-making and drive organizational performance.
 Currently pursuing an MBA, I am building a strong foundation at the intersection of analytics and leadership, with the goal of evolving into a role where I can both analyze data and lead strategic initiatives.
