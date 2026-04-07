@@ -1,6 +1,6 @@
 # Hi, I'm Taha Anouar
 
-## 💼 IT Developer | Data Analyst | Math Educator | Marketing Enthusiast
+## 💼 Data Analyst | MBA candidate
 Curious, analytical, and impact-driven. I build efficient digital tools, extract insights from data, and teach complex ideas with clarity. Passionate about solving real-world problems through smart tech and thoughtful communication.
 
 
