@@ -14,12 +14,12 @@ Currently pursuing an MBA, I am building a strong foundation at the intersection
 ## 🔧 Technologies & Tools
 
 Analytics & Data
-Excel · Power BI · Tableau · SQL · R
+- Excel · Power BI · Tableau · SQL · R
 
-Development
+- Development
 PHP · Python · JavaScript · HTML · CSS
 
-Tools
+- Tools
 Git · GitHub · VS Code · Jupyter Notebook
 
 ---
