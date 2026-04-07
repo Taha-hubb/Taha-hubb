@@ -16,11 +16,11 @@ Currently pursuing an MBA, I am building a strong foundation at the intersection
 Analytics & Data
 - Excel · Power BI · Tableau · SQL · R
 
-- Development
-PHP · Python · JavaScript · HTML · CSS
+ Development
+- PHP · Python · JavaScript · HTML · CSS
 
-- Tools
-Git · GitHub · VS Code · Jupyter Notebook
+ Tools
+- Git · GitHub · VS Code · Jupyter Notebook
 
 ---
 
